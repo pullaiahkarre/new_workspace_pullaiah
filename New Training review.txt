@@ -1,0 +1,146 @@
+2014-10-28:
+
+Slide 4:
+ - additional Layer for Client
+ - only one Server
+ - text in Slide, not in Note
+ - text on arrow: check-in/-out
+ 
+Slide 5:
+ - mistake in Animation
+ - colors: to be removed
+ - Animation: show terms according to Animation, hide the rest first
+ - emphasize "Versions of Configurations" -> use numbers 1.1, 1.2, ...
+ - use "current configuration" and frozen configs with numbers
+
+----------------------------------------------------------------------- 
+2014-11-05:
+
+Slide 4: ok
+Slide 5: 
+- for checkpointing, change the graphic:
+	- leave current configuration always where it is
+	- optionally display an arrow from current config to the place where 1.1 will appear latet
+	- display "Checkpoint 1.1" next (or below) the current configuration
+	- background color "blue" for checkpoint
+	- finally, change the current configuration with a.c 1.3
+- remove term and arrow for Sandbox
+
+Slide 6:
+- Note on the slide: user will get all four files in his local workarea
+
+Slide 7:
+- remove colors for project SWP
+- remove b.c from the Variant configuration
+
+Slide 8:
+- order of animations
+- fix footer
+
+Slide 9:
+- remove word "be" in last sentence
+
+Slide 11:
+- replace "RQ" with "Req."
+- add animation: first show upper part, then add lower part
+- remove dotted arrows from lower part (decided/realized) 
+
+Slide 12:
+- animate lower part
+
+stopped at slide 16
+
+-----------------------------------------------------------------------
+
+
+=======================================================================
+Developer Training:
+
+2014-11-26
+
+rephrase Slide 11
+
+Slide 12:
+- box shall have no frame and 50% transperent
+- copy it so that not relevant activities are all 50% hidden
+
+Slide 18:
+- red box around the word "Build"
+
+Slide 20:
+...accessed from...
+
+
+-----------------------------------------------------------------------
+
+
+=======================================================================
+Developer Training:
+
+2014-12-03
+
+Here after are the actions:
+"create Branch in Variant" shall be explained in note of slide 33
+move Excercices Slide 29 in slide 34
+in the exercice create on CP and explain first the "simple and normal" way of working
+create a second CP with explaining the "advanced part"
+
+copy the last comments sent by mail in the review document
+move the review document from Sharepoint to MKS
+Move the training slides from Sharepoint to MKS
+
+Set the 2 documents in sharepoint "obsolete"
+
+-----------------------------------------------------------------------
+
+
+=======================================================================
+Developer Training:
+
+2014-12-17
+
+slide 34: add a note to say that the Lock after update shall be used only if needed (it's not the standard way to work)
+Slide 35: add a first line to explain that it wil be done usually by the Responsible 
+add a slide after the 37 with some exercises to simulate the second release flow
+add a slide before slide 39 to speak about the CM plan and the ICTM methods 
+
+About model: organize a separate meeting 
+add slide 16 from the Common before slide 42 removing the RO part to add the Table from the ICTM method
+
+-----------------------------------------------------------------------
+
+
+=======================================================================
+Developer Training:
+
+2015-01-19
+
+Slide 41: add a comment for SE definition: if the user don't know the impacted SE we recommend to let it empty.
+Shall be modified also in the methods (Christine will Go after method modification)
+Slide 44: put in bold that All ATs shall be closed to set the Issue to Analyzed
+Slide 50: change the sentence about Variant Sandbox
+Slide 59: The name of the CP in the Merge Branch screen shall be changed to not confuse users
+
+stop at query 
+
+=======================================================================
+Developer Training:
+
+2015-01-26
+
+the Query on Relationship and other possibilities will be explained in the Responsible 
+before the slide 64: add a slide explaining the Manage Queries and how to filter and find the needed query
+slide 65-66: highlight the "That are" of the second screen and explain it 
+create a none existing predefined query
+
+slide 68 and 69: present a report with relationship
+
+move the slide 71 archive between the slide 25 and 26 to explain what is an archive 
+integrate the drop member in the seconde release development
+the Add file from Archive (74) and add after 72 
+Slide 75 to be moved in the Responsible 
+
+Open point: definition of the review process and if developer want to check in a file not as member revision
+To be defined and add in the training slides.
+
+

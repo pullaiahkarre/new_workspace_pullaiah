@@ -1,0 +1,156 @@
+Responsible Training slides Review
+----------------------------------------------------
+2015-03-09: OlGe, MaBi, DoKi, FrLi
+
+Slide 4:
+- Request Project at PMT, by filling the Project Request Template <link>
+ 
+
+Slide 5:
+- some "project specific fields" are predefined already in the Method (e.g. DANTE)
+- remove screenshot of "attachments" view
+- remark how "Inactive" state works (no items can be created any more)
+- remove screenshot of "History" view
+
+<new> before Slide 5:
+- insert Visio-Drawing of Doug before we explain the Items
+- explain how Items are related to each other
+	- e.g. Issue for multiple Variants, then ROs derived from that Issue for one Variant each
+	- e.g. ROs for several Structure Elements and/or Variants
+	
+<new> after Slide 5:
+- Visio Drawing: one box for "Issue", three boxes for "ROs", focusing on the attribute "Variant"
+
+Concept for Variants and DevPathes: - every trainee shall create a DevPath with 
+his name from the A-Sample Checkpoint on mainline of Training project - every 
+trainee shall create a ProjectVariant Item with his name
+
+
+----------------------------------------------------
+2015-03-25: OlGe, MaBi, DoKi, FrLi, AnUt
+
+Slide 6: 
+- fill some examples for project specific fields in tab "Customizeable Fields"
+	- then display a screenshot of the "Project specific Fields" tab of an Issue
+	- then draw arrows from the field definition to the field on the Issue
+	
+Slide 8: 
+- Add a sentence that the following fields have default values defined in the Method:
+
+Slide 9:
+- summary: name of the variant
+
+Slide 10:
+- start arrows from same point
+- simplify: only one RO per variant
+- move slide 10 after slide 5
+- animation showing 3 ROs and also different Structure Elements
+
+Slide 11:
+- change from "Create" to "Open" a Structure Specification
+
+Slide 12:
+- Insert column "Title"
+
+
+----------------------------------------------------
+2015-04-01: OlGe, MaBi, DoKi, FrLi, ChMa
+
+Slide 6:
+- use Structure Element "CAN" for Variant "low"
+
+Slide 7:
+- use an example which is according to the method
+
+Slide 10:
+- put the explanation of Project and Functional Variant in the Notes of the slide
+
+Slide 11:
+- change Header: "Creating Structure Elements"
+- change screenshots
+
+Slide 12:
+- rework according to Slide 11
+
+
+----------------------------------------------------
+2015-04-14: OlGe, MaBi, DoKi, FrLi, ChMa
+
+Slide 11
+- explain steps needed to create and initially fill a Structure Element correctly (Work Instruction)
+
+Slide 13: must be reworked for IMS 5.0
+
+Slide 18
+- move "Work in separate Development Paths" to a remark
+- change "update" to "Check-In"
+	
+Slide 19
+- do not try to freeze Build Subprojects, this will lead to (valid) error messages!
+
+Slide 20
+- remove "Work in separate Development Paths"
+- Highlight "Project Name"
+
+Slide 22
+- Use menu "View" -> "Select (F11)" to select all frozen members in one step
+
+----------------------------------------------------
+2015-04-28: OlGe, MaBi, DoKi, FrLi, ChMa, AnUt
+
+General: 
+- incorporate remarks from last time!
+- check left indent of headers
+
+Slide 26:
+- change 1) to use the Top-Level structure element
+- change 4) and 7) to "Sample2 <yourname>"
+
+Slide 27:
+- Create a Build Sandbox from "Sample 1" checkpoint to analyze the reported problems
+- take over that slide to Develoer Training
+
+Slide 28:
+- "You" instead The responsible
+
+Slide 29:
+- add possible purposes for DevPath:
+	 - Bugfix
+	 - Variant
+	 - Integration of generic Development (e.g. SWP, FSW, TG2R)
+	 - Release consolidation
+	 
+- do not hide it
+
+- Slide 31
+remove it
+
+
+
+----------------------------------------------------
+2015-04-28: OlGe, MaBi, DoKi, FrLi, ChMa, AnUt
+
+Slide 15: 
+- hide it
+
+Slide 23:
+- work out a better method for freeze/thaw
+
+Slide 29:
+- create an Issue to not forget to incorporate this to the Developer Training
+
+Slide 35:
+- change order: first link the Checkpoint, then set Release to Released
+
+Slides 36-48 are reviewed offline
+
+
+
+
+
+
+
+	
+	
+
+
